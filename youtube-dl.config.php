@@ -9,7 +9,7 @@
 
 interface cnfg
 {
-  /**
+  /*
    *  Set the directory (relative path to class file)
    *  where to save the downloads to.
    */
